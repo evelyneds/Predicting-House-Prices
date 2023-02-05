@@ -52,36 +52,3 @@ T lines. Each line i contains the predicted price for the ith test case.
 132.94
 129.71
 ```
-
-
-## Actual Output (Octave/Matlab)
-```
-$ chmod 755 HackerRankHousePrices.m
-$ which octave
-/usr/bin/octave
-$ ./HackerRankHousePrices.m < HackerRankHousePrices-Input.txt
-  105.21
-  142.67
-  132.94
-  129.70
-```
-
-## Actual Output (Python 3.x Anaconda)
-```
-$ python HackerRankHousePrices.py < HackerRankHousePrices-Input.txt
-105.214558351
-142.670951307
-132.936054691
-129.701754045
-```
-
-## Actual Output (R)
-```
-$ Rscript HackerRankHousePrices.R < HackerRankHousePrices-Input.txt
-3
-105.134
-143.4332
-133.4505
-129.5912
-```
-# Evelyneds
