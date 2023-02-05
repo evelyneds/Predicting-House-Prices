@@ -1,4 +1,4 @@
-# MultipleLinearRegression-HackerRankPredictHousePrices
+# Multiple Linear Regression Predict House Prices
 
 ## Objective
 In this challenge, we practice using multiple linear regression to predict housing prices. Check out the Resources tab for helpful videos!
